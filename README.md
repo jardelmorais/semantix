@@ -37,7 +37,9 @@ counts . saveAsTextFile ( "hdfs://..." )
 > Salva o resultado no arquivo no endereço passado
 
 ## Bibliotecas a serem importadas
-pyspark
-operator 
-pympler 
 
+pyspark
+
+operator 
+
+pympler 
